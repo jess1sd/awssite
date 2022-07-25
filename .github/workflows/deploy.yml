@@ -5,7 +5,7 @@ on:
   push:
     branches: [ main ]
 env:
-  applicationfolder: spring-boot-hello-world-example
+  applicationfolder: spring-boot-hello-world-example/security
   AWS_REGION: us-east-2
   S3BUCKET: wvmomcodedeploystack-webappdeploymentbucket-1vtftoamx99xa
 
